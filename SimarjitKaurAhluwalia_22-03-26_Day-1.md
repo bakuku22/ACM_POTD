@@ -27,4 +27,5 @@ class Solution(object):
 14        print(k,nums)
 
 
+<img width="718" height="856" alt="Screenshot 2026-03-22 at 6 20 30 PM" src="https://github.com/user-attachments/assets/20da2d4a-b4d4-4494-955c-a306e1d1afeb" />
 
