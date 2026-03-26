@@ -9,4 +9,5 @@ Traverse the array.
 If element is non-zero, place it at nums[k] and increment k
 After traversal, fill remaining positions with 0
 
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/fd3921dd-2f13-44b3-9e3f-befaadab990c" />
+
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/2d8e2140-d3ff-4d9e-bf45-abae23ccda33" />
