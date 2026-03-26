@@ -1,6 +1,6 @@
 ##  Day-5 Moving zeroes
 
-##  Problem link- https://leetcode.com/problems/missing-number/
+##  Problem link- eetcode.com/problems/move-zeroes/
 
 ## Approach
 
